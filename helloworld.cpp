@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "hello college!\n";
+	std::cout << "hello columbia college!\n";
 
 	return 0;
 }
